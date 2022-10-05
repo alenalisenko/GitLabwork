@@ -46,7 +46,7 @@ screen.onkeypress(lambda: snake[0].setheading(180), 'Left')
 screen.onkeypress(lambda: snake[0].setheading(0), 'Right')
 screen.listen()
 
-while True:
+while False:
 
     # creating a new segment of the snake
     # and redraw a food for the snake
