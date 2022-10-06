@@ -1,3 +1,6 @@
 [submodule "python-snake"]
 	path = python-snake
 	url = https://github.com/ivangolubykh/python-snake.git
+[submodule "git-lfs"]
+	path = git-lfs
+	url = https://github.com/git-lfs/git-lfs.git
