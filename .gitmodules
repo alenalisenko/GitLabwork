@@ -1,0 +1,3 @@
+[submodule "python-snake"]
+	path = python-snake
+	url = https://github.com/ivangolubykh/python-snake.git
